@@ -1,0 +1,20 @@
+//18 de Abril 2026 8:00
+#include <bits/stdc++.h>
+using namespace std;
+#define ll long long
+#define vl vector<ll>
+#define ff(aa, bb, cc) for(ll aa = bb; aa < cc; aa++)
+#define ed "\n"
+#define all(aaa) aaa.begin(), aaa.end()
+#define pll pair<ll, ll>
+#define fi first
+#define se second
+#define vb vector<bool>
+#define pb push_back
+#define vs vector<string>
+
+int main(){
+	ll l, r;
+	cin >> l >> r;
+	cout << r-l+1;
+}
