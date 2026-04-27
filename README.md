@@ -1,10 +1,12 @@
 # Preseleccion-IOI-2026
- 
+
+**Submissions: 280**
+
 This repository contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI** and other programming competitions.
 
 The solved problems in this repository come from various platforms, including:
 
-- IOI / national olympiads
+- IOI / National Olympiads
 - USACO
 - Codeforces
 - AtCoder
@@ -24,9 +26,15 @@ Example:
 
 ```text
 AtCoder - Problem Name.cpp
-CF - Problem Name.cpp
-USACO - Problem Name.cpp
+Codeforces - Problem Name.cpp
+Olympiads - Problem Name.cpp
 ```
+
+For USACO problems in the complete list, the prefix indicates the section of the USACO Guide:  
+`1B` = Bronze  
+`2B` = Silver  
+`3B` = Gold  
+`4P` = Platinum
 
 ## Codeforces Difficulty Distribution
 
