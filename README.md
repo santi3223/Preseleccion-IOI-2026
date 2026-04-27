@@ -26,3 +26,33 @@ Example:
 AtCoder - Problem Name.cpp
 CF - Problem Name.cpp
 USACO - Problem Name.cpp
+```
+
+## Codeforces Difficulty Distribution
+
+Codeforces profile: [santi3223](https://codeforces.com/profile/santi3223) (max rating: 1411)
+
+Below is a breakdown of the **Codeforces** problems I have solved in this repository by rating:
+
+| Rating | Problems Solved |
+|--------:|----------------:|
+| N/A     | 17 |
+| 800     | 3 |
+| 900     | 1 |
+| 1100    | 1 |
+| 1200    | 2 |
+| 1300    | 3 |
+| 1400    | 3 |
+| 1500    | 12 |
+| 1600    | 9 |
+| 1700    | 11 |
+| 1800    | 7 |
+| 1900    | 6 |
+| 2000    | 4 |
+| 2100    | 1 |
+| 2200    | 1 |
+| 2600    | 1 |
+
+This distribution reflects my progression from solving beginner-level problems to tackling advanced algorithmic challenges.
+
+On Codeforces, problem ratings generally indicate relative difficulty, with higher ratings requiring more advanced problem-solving and algorithmic knowledge.
