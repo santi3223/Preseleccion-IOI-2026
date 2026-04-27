@@ -2,7 +2,7 @@
  
 This repository contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI** and other programming competitions.
 
-I use this repository to prepare for contests such as:
+The solved problems in this repository come from various platforms, including:
 
 - IOI / national olympiads
 - USACO
