@@ -1,6 +1,6 @@
 # Preseleccion-IOI-2026
 
-**Submissions: 321**
+**Submissions: 324**
 
 This repository contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI** and other programming competitions.
 
@@ -54,7 +54,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 1500    | 13 | █████████████ |
 | 1600    | 12 | ████████████ |
 | 1700    | 13 | █████████████ |
-| 1800    | 7  | ███████ |
+| 1800    | 8  | ████████ |
 | 1900    | 8  | ████████ |
 | 2000    | 6  | ██████ |
 | 2100    | 1  | █ |
