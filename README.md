@@ -1,6 +1,6 @@
 # Preseleccion-IOI-2026
 
-**Submissions: 334**
+**Submissions: 335**
 
 This repository contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI** and other programming competitions.
 
