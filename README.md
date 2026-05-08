@@ -65,3 +65,10 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 This distribution reflects my progression from solving beginner-level problems to tackling advanced algorithmic challenges.
 
 On Codeforces, problem ratings generally indicate relative difficulty, with higher ratings requiring more advanced problem-solving and algorithmic knowledge.
+
+## Competitive Programming Profiles
+*Last updated: May 8, 2026*
+- Codeforces: [santi3223](https://codeforces.com/profile/santi3223) Submissions: 1436. 
+- AtCoder: [santi3223](https://atcoder.jp/users/santi3223) Submissions: 378.
+- CSES: [santi3223](https://cses.fi/user/221403). Submissions: 239.
+- Oj.uz: [santi3223](https://oj.uz/profile/santi3223) Submissions: 215.
