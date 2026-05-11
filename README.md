@@ -57,7 +57,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 1800    | 8  | ████████ |
 | 1900    | 8  | ████████ |
 | 2000    | 6  | ██████ |
-| 2100    | 1  | █ |
+| 2100    | 2  | ██ |
 | 2200    | 2  | ██ |
 | 2300    | 1  | █ |
 | 2600    | 1  | █ |
