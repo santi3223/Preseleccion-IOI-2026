@@ -2,6 +2,8 @@
 
 **Submissions: 360**
 
+I will officially take part in IOI and IOAI
+
 This repository contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI** and other programming competitions.
 
 The solved problems in this repository come from various platforms, including:
