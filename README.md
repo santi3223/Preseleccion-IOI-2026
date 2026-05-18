@@ -1,6 +1,6 @@
 # Preseleccion-IOI-2026
 
-**Submissions: 360**
+**Submissions: 361**
 
 I will officially take part in IOI and IOAI
 
@@ -54,7 +54,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 1300    | 3  | ███ |
 | 1400    | 5  | █████ |
 | 1500    | 14 | ██████████████ |
-| 1600    | 12 | ████████████ |
+| 1600    | 13 | █████████████ |
 | 1700    | 13 | █████████████ |
 | 1800    | 8  | ████████ |
 | 1900    | 9  | █████████ |
