@@ -6,7 +6,9 @@
 
 I will officially take part in IOI and IOAI
 - IOAI Bolivia Team official announcement: [link](https://www.ob-ia.org/posts/seleccin-nacional-ioai-2026/)
-- IOI Bolivia Team official announcement: Not available yet
+- IOI Bolivia Team official announcement: To be announced
+
+==============================================================================================================
 
 This repository contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI** and other programming competitions.
 
