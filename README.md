@@ -1,8 +1,12 @@
 # Preseleccion-IOI-2026
 
-**Submissions: 361**
+**Submissions: 363**
+
+## Important Info
 
 I will officially take part in IOI and IOAI
+- IOAI Bolivia Team official announcement: [link](https://www.ob-ia.org/posts/seleccin-nacional-ioai-2026/)
+- IOI Bolivia Team official announcement: Not available yet
 
 This repository contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI** and other programming competitions.
 
@@ -53,7 +57,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 1200    | 3  | ███ |
 | 1300    | 3  | ███ |
 | 1400    | 5  | █████ |
-| 1500    | 14 | ██████████████ |
+| 1500    | 15 | ███████████████ |
 | 1600    | 13 | █████████████ |
 | 1700    | 13 | █████████████ |
 | 1800    | 8  | ████████ |
