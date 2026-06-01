@@ -1,6 +1,6 @@
 # Preseleccion-IOI-2026
 
-**Submissions: 444**
+**Submissions: 446**
 
 ## Important Info
 
@@ -49,11 +49,13 @@ For USACO problems in the complete list, the prefix indicates the section of the
 
 Codeforces profile: [santi3223](https://codeforces.com/profile/santi3223) (max rating: 1411)
 
+This repository currently contains **164 Codeforces problems**.
+
 Below is a breakdown of the **Codeforces** problems I have solved in this repository by rating:
 
 | Rating | Count | Distribution |
 |--------:|------:|:-------------|
-| N/A     | 43 | ███████████████████████████████████████████ |
+| N/A     | 46 | ██████████████████████████████████████████████ |
 | 800     | 12 | █████████████ |
 | 900     | 3  | ███ |
 | 1000    | 2  | ██ |
@@ -73,9 +75,21 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 2600    | 1  | █ |
 | 2700    | 1  | █ |
 
-This distribution reflects my progression from solving beginner-level problems to tackling advanced algorithmic challenges.
+On Codeforces, problem ratings generally indicate relative difficulty, with higher ratings requiring more advanced problem-solving. Codeforces ratings are similar to Chess Elo ratings, but based on performance in Competitive Programming Contests.
 
-On Codeforces, problem ratings generally indicate relative difficulty, with higher ratings requiring more advanced problem-solving and algorithmic knowledge.
+This distribution reflects my progression from solving beginner-level problems to more advanced ones.
+
+Most problems with an N/A rating originate from olympiads and contest rounds
+(Provincial, Regional, State, and Final stages), ICPC contests, training camps,
+and other sources that do not assign Codeforces-style ratings.
+
+| Source | Count | Distribution |
+|-----:|------:|:-------------|
+| ICPC                    | 21 | █████████████████████ |
+| Pre/Collegiate Contests | 10 | ██████████ |
+| April Fools CF contest  | 8  | ████████ |
+| Pending rating          | 2  | ██ |
+| Other                   | 5  | █████ |
 
 ## Competitive Programming Profiles
 *Last updated: May 7, 2026*
