@@ -6,7 +6,7 @@
 
 I will officially take part in IOI and IOAI
 - IOAI Bolivia Team official announcement: [link](https://www.ob-ia.org/posts/seleccin-nacional-ioai-2026/) | [instagram post](https://www.instagram.com/p/DZD_vkBA5HR/)
-- IOI Bolivia Team official announcement: [link](https://obi.org.bo/news/clasificados-ioi-2026/)  |  [Semi-official announcement](https://codeforces.com/blog/entry/153182?#comment-1366206) | [instagram post](https://www.instagram.com/p/DY5-estResa/)
+- IOI Bolivia Team official announcement: [link](https://obi.org.bo/news/clasificados-ioi-2026/) | [instagram post](https://www.instagram.com/p/DY5-estResa/)
 
 ============================================================
 
