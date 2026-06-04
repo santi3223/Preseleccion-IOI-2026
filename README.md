@@ -92,8 +92,8 @@ and other sources that do not assign Codeforces-style ratings.
 | Other                   | 5  | █████ |
 
 ## Competitive Programming Profiles
-*Last updated: May 7, 2026*
-- Codeforces: [santi3223](https://codeforces.com/profile/santi3223) Submissions: 1436. 
-- AtCoder: [santi3223](https://atcoder.jp/users/santi3223) Submissions: 378.
-- CSES: [santi3223](https://cses.fi/user/221403). Submissions: 239.
-- Oj.uz: [santi3223](https://oj.uz/profile/santi3223) Submissions: 215.
+*Last updated: June 3, 2026*
+- Codeforces: [santi3223](https://codeforces.com/profile/santi3223) Total Submissions: 1577. 
+- AtCoder: [santi3223](https://atcoder.jp/users/santi3223) Total Submissions: 387.
+- CSES: [santi3223](https://cses.fi/user/221403). Total Submissions: 273.
+- Oj.uz: [santi3223](https://oj.uz/profile/santi3223) Total Submissions: 220.
