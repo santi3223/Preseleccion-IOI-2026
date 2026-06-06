@@ -1,6 +1,6 @@
 # Preseleccion-IOI-2026
 
-**Submissions: 456**
+**Submissions: 459**
 
 ## Important Info
 
@@ -73,7 +73,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 2200    | 3  | ███ |
 | 2300    | 1  | █ |
 | 2600    | 1  | █ |
-| 2700    | 1  | █ |
+| 2700    | 2  | ██ |
 
 On Codeforces, problem ratings generally indicate relative difficulty, with higher ratings requiring more advanced problem-solving. Codeforces ratings are similar to Chess Elo ratings, but based on performance in Competitive Programming Contests.
 
