@@ -1,6 +1,6 @@
 # Preseleccion-IOI-2026
 
-**Submissions: 459**
+**Submissions: 460**
 
 ## Important Info
 
@@ -66,7 +66,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 1500    | 16 | ████████████████ |
 | 1600    | 15 | ███████████████ |
 | 1700    | 17 | █████████████████ |
-| 1800    | 8  | ████████ |
+| 1800    | 9  | █████████ |
 | 1900    | 9  | █████████ |
 | 2000    | 9  | █████████ |
 | 2100    | 4  | ████ |
