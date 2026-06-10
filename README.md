@@ -1,6 +1,6 @@
 # Preseleccion-IOI-2026
 
-**Submissions: 467**
+**Submissions: 470**
 
 ## Important Info
 
@@ -55,7 +55,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 
 | Rating | Count | Distribution |
 |--------:|------:|:-------------|
-| N/A     | 51 | ███████████████████████████████████████████████████ |
+| N/A     | 54 | ██████████████████████████████████████████████████████ |
 | 800     | 14 | ███████████████ |
 | 900     | 4  | ████ |
 | 1000    | 2  | ██ |
@@ -88,7 +88,7 @@ and other sources that do not assign Codeforces-style ratings.
 | ICPC                    | 21 | █████████████████████ |
 | Pre/Collegiate Contests | 10 | ██████████ |
 | April Fools CF contest  | 8  | ████████ |
-| Pending rating          | 5  | █████ |
+| Pending rating          | 8  | ████████ |
 | Other                   | 5  | █████ |
 
 ## Competitive Programming Profiles
