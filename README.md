@@ -1,4 +1,4 @@
-# Preseleccion-IOI-2026
+# ~Pre~ Seleccion-IOI-2026
 
 **Submissions: 475**
 
