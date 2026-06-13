@@ -1,6 +1,6 @@
 # ~Pre~ Seleccion-IOI-2026
 
-**Submissions: 476**
+**Submissions: 480**
 
 ## Important Info
 
@@ -39,35 +39,35 @@ Codeforces - Problem Name.cpp
 Olympiads - Problem Name.cpp
 ```
 
-For USACO problems in the complete list, the prefix indicates the section of the USACO Guide:  
-`1B` = Bronze  
-`2B` = Silver  
-`3B` = Gold  
+For USACO problems in the complete list, the prefix indicates the section of the USACO Guide:<br>
+`1B` = Bronze<br>
+`2B` = Silver<be>
+`3B` = Gold<br>
 `4P` = Platinum
 
 ## Codeforces Difficulty Distribution
 
 Codeforces profile: [santi3223](https://codeforces.com/profile/santi3223) (max rating: 1411)
 
-This repository currently contains **181 Codeforces problems**.
+This repository currently contains **185 Codeforces problems**.
 
 Below is a breakdown of the **Codeforces** problems I have solved in this repository by rating:
 
 | Rating | Count | Distribution |
 |--------:|------:|:-------------|
-| N/A     | 54 | ██████████████████████████████████████████████████████ |
-| 800     | 14 | ███████████████ |
+| N/A     | 53 | █████████████████████████████████████████████████████ |
+| 800     | 16 | █████████████████ |
 | 900     | 4  | ████ |
 | 1000    | 2  | ██ |
 | 1100    | 3  | ███ |
-| 1200    | 5  | █████ |
+| 1200    | 6  | ██████ |
 | 1300    | 6  | ██████ |
 | 1400    | 7  | ███████ |
-| 1500    | 16 | ████████████████ |
+| 1500    | 17 | █████████████████ |
 | 1600    | 15 | ███████████████ |
 | 1700    | 17 | █████████████████ |
 | 1800    | 10 | ██████████ |
-| 1900    | 12 | ████████████ |
+| 1900    | 13 | █████████████ |
 | 2000    | 9  | █████████ |
 | 2100    | 4  | ████ |
 | 2200    | 3  | ███ |
@@ -88,7 +88,7 @@ and other sources that do not assign Codeforces-style ratings.
 | ICPC                    | 21 | █████████████████████ |
 | Pre/Collegiate Contests | 10 | ██████████ |
 | April Fools CF contest  | 8  | ████████ |
-| Pending rating          | 8  | ████████ |
+| Pending rating          | 7  | ███████ |
 | Other                   | 5  | █████ |
 
 ## Competitive Programming Profiles
