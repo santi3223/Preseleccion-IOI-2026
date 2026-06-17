@@ -41,7 +41,7 @@ Olympiads - Problem Name.cpp
 
 For USACO problems in the complete list, the prefix indicates the section of the USACO Guide:<br>
 `1B` = Bronze<br>
-`2B` = Silver<be>
+`2B` = Silver<br>
 `3B` = Gold<br>
 `4P` = Platinum
 
