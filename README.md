@@ -1,6 +1,6 @@
 # ~Pre~ Seleccion-IOI-2026
 
-**Submissions: 491**
+**Submissions: 492**
 
 ## Important Info
 
@@ -49,7 +49,7 @@ For USACO problems in the complete list, the prefix indicates the section of the
 
 Codeforces profile: [santi3223](https://codeforces.com/profile/santi3223) (max rating: 1411)
 
-This repository currently contains **192 Codeforces problems**.
+This repository currently contains **193 Codeforces problems**.
 
 Below is a breakdown of the **Codeforces** problems I have solved in this repository by rating:
 
@@ -69,7 +69,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 1800    | 11 | ███████████ |
 | 1900    | 15 | ███████████████ |
 | 2000    | 10 | ██████████ |
-| 2100    | 4  | ████ |
+| 2100    | 5  | █████ |
 | 2200    | 3  | ███ |
 | 2300    | 1  | █ |
 | 2600    | 1  | █ |
