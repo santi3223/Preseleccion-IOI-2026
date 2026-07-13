@@ -49,7 +49,7 @@ For USACO problems in the complete list, the prefix indicates the section of the
 
 Codeforces profile: [santi3223](https://codeforces.com/profile/santi3223) (max rating: 1411)
 
-This repository currently contains **215 Codeforces problems**.
+This repository currently contains **216 Codeforces problems**.
 
 Below is a breakdown of the **Codeforces** problems I have solved in this repository by rating:
 
@@ -64,7 +64,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 1300    | 7  | ███████ |
 | 1400    | 12 | ████████████ |
 | 1500    | 24 | ████████████████████████ |
-| 1600    | 17 | █████████████████ |
+| 1600    | 18 | ██████████████████ |
 | 1700    | 18 | ██████████████████ |
 | 1800    | 11 | ███████████ |
 | 1900    | 17 | █████████████████ |
