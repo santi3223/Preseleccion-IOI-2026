@@ -1,6 +1,6 @@
 # ~Pre~ Seleccion-IOI-2026
 
-**Submissions: 532**
+**Submissions: 569**
 
 ## Important Info
 
